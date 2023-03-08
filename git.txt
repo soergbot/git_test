@@ -1,0 +1,6 @@
+git clone #clone repository
+git push #push remote repository
+git add . #stages all files
+git commit -m "commit message"
+git status #shows files waiting
+git log #shows all changes
